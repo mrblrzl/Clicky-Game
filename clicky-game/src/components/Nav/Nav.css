@@ -1,0 +1,13 @@
+nav {
+    width: 100%;
+    color: #fff;
+    background-color: #383838;
+    height: auto;
+
+}
+
+nav li {
+    display: inline-block;
+    padding: 26px 0;
+    width: 25%;
+}

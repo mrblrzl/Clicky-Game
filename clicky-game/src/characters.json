@@ -20,31 +20,31 @@
   {
     "id": 4,
     "name": "Francine",
-    "image": "https://vignette.wikia.nocookie.net/arthur/images/6/64/Francine_706b.png/revision/latest/scale-to-width-down/166?cb=20160903120046",
+    "image": "https://vignette.wikia.nocookie.net/arthur/images/6/64/Francine_706b.png/revision/latest/top-crop/width/166/height/166?cb=20160903120046",
     "clicked": false
   },
   {
     "id": 5,
     "name": "Muffy",
-    "image": "https://vignette.wikia.nocookie.net/arthur/images/2/20/April_9th_67.JPG/revision/latest/scale-to-width-down/166?cb=20150805080231",
+    "image": "https://vignette.wikia.nocookie.net/arthur/images/2/20/April_9th_67.JPG/revision/latest/top-crop/width/166/height/166?cb=20150805080231",
     "clicked": false
   },
   {
     "id": 6,
     "name": "Brain",
-    "image": "https://vignette.wikia.nocookie.net/arthur/images/f/f3/Brain_Arthur_Weighs_In.png/revision/latest?cb=20160720055849",
+    "image": "https://vignette.wikia.nocookie.net/arthur/images/f/f3/Brain_Arthur_Weighs_In.png/revision/latest/top-crop/width/166/height/166?cb=20160720055849",
     "clicked": false
   },
   {
     "id": 7,
     "name": "George",
-    "image": "https://vignette.wikia.nocookie.net/arthur/images/7/77/George_s6.png/revision/latest/scale-to-width-down/166?cb=20150124233536",
+    "image": "https://vignette.wikia.nocookie.net/arthur/images/7/77/George_s6.png/revision/latest/top-crop/width/166/height/166?cb=20150124233536",
     "clicked": false
   },
   {
     "id": 8,
     "name": "Jenna",
-    "image": "https://vignette.wikia.nocookie.net/arthur/images/9/94/Jenna_Morgan_Binky_Goes_Nuts_1.png/revision/latest?cb=20160720054305",
+    "image": "https://vignette.wikia.nocookie.net/arthur/images/9/94/Jenna_Morgan_Binky_Goes_Nuts_1.png/revision/latest/top-crop/width/166/height/166?cb=20160720054305",
     "clicked": false
   },
   {
@@ -56,19 +56,19 @@
   {
     "id": 10,
     "name": "Sue Ellen",
-    "image": "https://vignette.wikia.nocookie.net/arthur/images/b/b0/Sue_Ellen.png/revision/latest/scale-to-width-down/166?cb=20150102091156",
+    "image": "https://vignette.wikia.nocookie.net/arthur/images/b/b0/Sue_Ellen.png/revision/latest/top-crop/width/166/height/166?cb=20150102091156",
     "clicked": false
   },
   {
     "id": 11,
     "name": "Ratburn",
-    "image": "https://vignette.wikia.nocookie.net/arthur/images/e/ef/Nigel_Ratburn.png/revision/latest?cb=20170617230759",
+    "image": "https://vignette.wikia.nocookie.net/arthur/images/e/ef/Nigel_Ratburn.png/revision/latest/top-crop/width/166/height/166?cb=20170617230759",
     "clicked": false
   },
   {
     "id": 12,
     "name": "Emily",
-    "image": "https://vignette.wikia.nocookie.net/arthur/images/0/0b/Emily_s9.png/revision/latest/scale-to-width-down/166?cb=20150712022700",
+    "image": "https://vignette.wikia.nocookie.net/arthur/images/0/0b/Emily_s9.png/revision/latest/top-crop/width/166/height/166?cb=20150712022700",
     "clicked": false
   }
 ]

@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import CharacterCard from "./components/CharacterCard";
 import Container from "./components/Container";
-import Title from "./components/Title";
 import characters from "./characters.json";
 import Nav from "./components/Nav";
 import Wrapper from "./Wrapper";
+import Jumbotron from "./components/Jumbotron/Jumbotron";
 
 //Shuffle character cards 
 function randomFriends(array) {
@@ -73,15 +73,12 @@ class App extends Component {
   render() {
     return (
       <Container>
-        <Nav
-        title="Clicky Game!"
+          <Nav
         score={this.state.currentScore}
         topScore={this.state.topScore}
         rightWrong={this.state.rightWrong}
         />
-        <Title>
-        <h3>Don't click on the same character more than once!
-        </h3></Title>
+        <Jumbotron />
         <Wrapper>
         {this.state.characters.map(characters => (
           <CharacterCard

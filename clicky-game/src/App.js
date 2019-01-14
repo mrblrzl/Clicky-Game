@@ -17,7 +17,7 @@ function randomFriends(array) {
 
 
 class App extends Component {
-  // Setting this.state.friends to the friends json array
+ 
   state = {
     characters,
     currentScore: 0,
@@ -64,12 +64,8 @@ class App extends Component {
     let shuffledFriends = randomFriends(characters);
     this.setState({ characters: shuffledFriends });
   };
-  // removeFriend = id => {
-  //   const friends = this.state.friends.filter(characters => characters.id !== id);
-  //   this.setState({ friends });
-  // };
 
-  // Map over this.state.friends and render a CharacterCard component for each characters object
+
   render() {
     return (
       <Container>
